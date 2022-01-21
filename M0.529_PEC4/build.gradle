@@ -1,0 +1,21 @@
+plugins {
+    id 'groovy'
+    id 'java'
+}
+
+group 'edu.uoc.mecm.eda'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "org.apache.commons:commons-lang3:3.9"
+
+    // mandatory dependencies for using Spock
+    compile "org.codehaus.groovy:groovy-all:2.3.11"
+    testCompile "org.spockframework:spock-core:1.2-groovy-2.4"
+}

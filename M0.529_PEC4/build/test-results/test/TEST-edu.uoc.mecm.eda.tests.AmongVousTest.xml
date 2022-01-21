@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.mecm.eda.tests.AmongVousTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-01-21T13:27:49" hostname="matb-NUC8i3BEH" time="0.061">
+  <properties/>
+  <testcase name="amongVousExceptionTest()[0]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.003"/>
+  <testcase name="amongVousExceptionTest()[1]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.001"/>
+  <testcase name="amongVousExceptionTest()[2]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.001"/>
+  <testcase name="amongVousDistanceTest()[0]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.01"/>
+  <testcase name="amongVousDistanceTest()[1]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.005"/>
+  <testcase name="amongVousDistanceTest()[2]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.004"/>
+  <testcase name="amongVousDistanceTest()[3]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.01"/>
+  <testcase name="amongVousTest()[0]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.003"/>
+  <testcase name="amongVousTest()[1]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.002"/>
+  <testcase name="amongVousTest()[2]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.001"/>
+  <testcase name="amongVousTest()[3]" classname="edu.uoc.mecm.eda.tests.AmongVousTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

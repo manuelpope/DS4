@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.mecm.eda.tests.SudokuTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-01-21T13:27:48" hostname="matb-NUC8i3BEH" time="0.051">
+  <properties/>
+  <testcase name="sudokuExceptionTest()[0]" classname="edu.uoc.mecm.eda.tests.SudokuTest" time="0.014"/>
+  <testcase name="sudokuExceptionTest()[1]" classname="edu.uoc.mecm.eda.tests.SudokuTest" time="0.01"/>
+  <testcase name="sudokuExceptionTest()[2]" classname="edu.uoc.mecm.eda.tests.SudokuTest" time="0.001"/>
+  <testcase name="sudokuCanItBeSolvedTest()[0]" classname="edu.uoc.mecm.eda.tests.SudokuTest" time="0.009"/>
+  <testcase name="sudokuCanItBeSolvedTest()[1]" classname="edu.uoc.mecm.eda.tests.SudokuTest" time="0.002"/>
+  <testcase name="sudokuCanItBeSolvedTest()[2]" classname="edu.uoc.mecm.eda.tests.SudokuTest" time="0.002"/>
+  <testcase name="sudokuCanItBeSolvedTest()[3]" classname="edu.uoc.mecm.eda.tests.SudokuTest" time="0.001"/>
+  <testcase name="sudokuSolverTest()[0]" classname="edu.uoc.mecm.eda.tests.SudokuTest" time="0.002"/>
+  <testcase name="sudokuSolverTest()[1]" classname="edu.uoc.mecm.eda.tests.SudokuTest" time="0.001"/>
+  <testcase name="sudokuSolverTest()[2]" classname="edu.uoc.mecm.eda.tests.SudokuTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

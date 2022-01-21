@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.uoc.mecm.eda.pac4.exercise3","l":"AmongVous"},{"p":"edu.uoc.mecm.eda.pac4.exercise3","l":"Position"},{"p":"edu.uoc.mecm.eda.pac4.exercise1","l":"SubjectRequirements"},{"p":"edu.uoc.mecm.eda.pac4.exercise4","l":"SudokuSolver"}]

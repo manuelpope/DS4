@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-01-21T13:27:49" hostname="matb-NUC8i3BEH" time="0.031">
+  <properties/>
+  <testcase name="addSubjectRequirementsExceptionTest()[0]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.003"/>
+  <testcase name="addSubjectRequirementsExceptionTest()[1]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.0"/>
+  <testcase name="addSubjectRequirementsExceptionTest()[2]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.001"/>
+  <testcase name="addSubjectRequirementsExceptionTest()[3]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.0"/>
+  <testcase name="addSubjectRequirementsExceptionTest()[4]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.003"/>
+  <testcase name="getSubjectRequirementsExceptionTest()[0]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.002"/>
+  <testcase name="getSubjectRequirementsExceptionTest()[1]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.001"/>
+  <testcase name="getPassedSubjectsExceptionTest()[0]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.002"/>
+  <testcase name="getPassedSubjectsExceptionTest()[1]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.001"/>
+  <testcase name="getSubjectRequirementsTest()[0]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.002"/>
+  <testcase name="getSubjectRequirementsTest()[1]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.001"/>
+  <testcase name="getSubjectRequirementsTest()[2]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.001"/>
+  <testcase name="getSubjectRequirementsTest()[3]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.001"/>
+  <testcase name="getSubjectRequirementsTest()[4]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.0"/>
+  <testcase name="getPassedSubjectsTest()[0]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.001"/>
+  <testcase name="getPassedSubjectsTest()[1]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.0"/>
+  <testcase name="getPassedSubjectsTest()[2]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.0"/>
+  <testcase name="getPassedSubjectsTest()[3]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.001"/>
+  <testcase name="getPassedSubjectsTest()[4]" classname="edu.uoc.mecm.eda.tests.SubjectRequirementsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
